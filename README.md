@@ -2,7 +2,7 @@
 
 ### Video Tutorial: 
 <img width="1920" height="1080" alt="AWS Rekognition" src="https://github.com/user-attachments/assets/09121557-41ca-4b46-8bde-b3341e2f18bd" />
-YouTube Video Link: 
+YouTube Video Link: https://youtu.be/jIjTx5RMat4
 
 ### Overview of Project ☁️
 In this project, we will be building an image labels generator, using Amazon Rekognition. This is going to be a fun one. Once built, it will be able to recognize and label images. For example, if you have a photo of a cat, Amazon Recognition will be able to identify what it is, and label the image as a cat.
