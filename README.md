@@ -24,7 +24,8 @@ We'll be going through the following steps.
 * Cost: Free (When using the AWS Free Tier)
 
 ### Project Architecture: 
-<img width="1080" height="1080" alt="Academic Partner Christ University" src="https://github.com/user-attachments/assets/79713683-e3b5-4de3-8d3c-76e87474d171" />
+<img width="1607" height="808" alt="Architect" src="https://github.com/user-attachments/assets/a099a93b-732f-4a76-9da2-556fa5caf62b" />
+
 
 ### Follow us:
 * Join the channel: https://www.youtube.com/channel/UCwhERUcuzUCwr8x8mQ8zrcw/join
